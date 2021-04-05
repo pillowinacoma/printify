@@ -1,0 +1,2366 @@
+{
+  "items": [
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 3692060
+      },
+      "genres": [
+        "francoton",
+        "rap marseille"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/3IW7ScrzXmPvZhB27hmfgy
+",
+      "id": "3IW7ScrzXmPvZhB27hmfgy",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/dce5bc40ede7f6106df2f0d928cb5ddca0bc4da5
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/094bc80fe503db38bf7a5c7318ccb8f964895544
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/16a299e00bb3e0c1eadc5efcdebb57bbce80f49c
+",
+          "width": 160
+        }
+      ],
+      "name": "Jul",
+      "popularity": 82,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨3IW7ScrzXmPvZhB27hmfgy"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 189404
+      },
+      "genres": [
+        "french hip hop",
+        "pop urbaine",
+        "rap calme",
+        "rap francais"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/0LnhY2fzptb0QEs5Q5gM7S
+",
+      "id": "0LnhY2fzptb0QEs5Q5gM7S",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ab6761610000e5eb11e8e4542a70c6601391dff2
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/ab6761610000517411e8e4542a70c6601391dff2
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/ab6761610000f17811e8e4542a70c6601391dff2
+",
+          "width": 160
+        }
+      ],
+      "name": "Laylow",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨0LnhY2fzptb0QEs5Q5gM7S"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 352843
+      },
+      "genres": [
+        "french hip hop",
+        "pop urbaine",
+        "rap conscient",
+        "rap francais"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/6dbdXbyAWk2qx8Qttw0knR
+",
+      "id": "6dbdXbyAWk2qx8Qttw0knR",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/8d8a5cf42227ac7fcbb2188d596cfc3d52d53754
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/d36933c7a7e41fcd4a449b4d62d4bbe1db016810
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/1878cc63a29641d676b20ed1f08c68a6d398c26a
+",
+          "width": 160
+        }
+      ],
+      "name": "Josman",
+      "popularity": 68,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨6dbdXbyAWk2qx8Qttw0knR"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 42026
+      },
+      "genres": [
+        "french hip hop",
+        "french indietronica",
+        "rap calme"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/5MJkroCz5vy8h3LeDsN1vu
+",
+      "id": "5MJkroCz5vy8h3LeDsN1vu",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/170507803147e395e4e13a9c61e05222a20355ba
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/09da18d217bc41027ff437d3cf38acc3783a90c4
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/f999740078043a703543c9e435e7967a5436a10b
+",
+          "width": 160
+        }
+      ],
+      "name": "Ichon",
+      "popularity": 55,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨5MJkroCz5vy8h3LeDsN1vu"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/71XOKoFKWFjlV91e2Z5r21
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 29538
+      },
+      "genres": [
+        "belgian hip hop",
+        "french hip hop",
+        "pop urbaine",
+        "rap belge",
+        "rap calme",
+        "rap francais"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/71XOKoFKWFjlV91e2Z5r21
+",
+      "id": "71XOKoFKWFjlV91e2Z5r21",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ab6761610000e5eb2bfcbba841ad4eee733c8cc2
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/ab676161000051742bfcbba841ad4eee733c8cc2
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/ab6761610000f1782bfcbba841ad4eee733c8cc2
+",
+          "width": 160
+        }
+      ],
+      "name": "Frenetik",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨71XOKoFKWFjlV91e2Z5r21"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/3r7t38zbphQtpfAH12UbRd
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 23999
+      },
+      "genres": [
+        "french hip hop",
+        "rap calme"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/3r7t38zbphQtpfAH12UbRd
+",
+      "id": "3r7t38zbphQtpfAH12UbRd",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/dfc9a23235dd4ecd9fd5a736eff28b063046c085
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/ad65b356b8746de87a715e1173bffcce5ec63b35
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/671bdc3a64d7578f0070807191d6e253d63af50e
+",
+          "width": 160
+        }
+      ],
+      "name": "Makala",
+      "popularity": 45,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨3r7t38zbphQtpfAH12UbRd"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 474892
+      },
+      "genres": [
+        "belgian hip hop",
+        "french hip hop",
+        "pop urbaine",
+        "rap belge",
+        "rap francais"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/5gs4Sm2WQUkcGeikMcVHbh
+",
+      "id": "5gs4Sm2WQUkcGeikMcVHbh",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ab6761610000e5eb13fd23f6e5b3b9262618279d
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/ab6761610000517413fd23f6e5b3b9262618279d
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/ab6761610000f17813fd23f6e5b3b9262618279d
+",
+          "width": 160
+        }
+      ],
+      "name": "Hamza",
+      "popularity": 74,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨5gs4Sm2WQUkcGeikMcVHbh"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/0HdLXCWPtmK9wgd7CyNuj3
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 17009
+      },
+      "genres": [
+        "french hip hop",
+        "pop urbaine",
+        "rap calme",
+        "rap francais"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/0HdLXCWPtmK9wgd7CyNuj3
+",
+      "id": "0HdLXCWPtmK9wgd7CyNuj3",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/c4cc98eb8da4afcda975d0e09357bfb1cefecfaa
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/2f9be155e46719d032eac5157ba90246fe93b2b0
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/51a5292fa38b8d0c0728ae9394b11da67afef95c
+",
+          "width": 160
+        }
+      ],
+      "name": "Le Motif",
+      "popularity": 50,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨0HdLXCWPtmK9wgd7CyNuj3"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 175826
+      },
+      "genres": [
+        "francoton",
+        "french hip hop",
+        "pop urbaine"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/3MNnSV5hDd2UzZzgqD8xlU
+",
+      "id": "3MNnSV5hDd2UzZzgqD8xlU",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ab6761610000e5eb76a02aae8f69dc600e92b6fb
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/ab6761610000517476a02aae8f69dc600e92b6fb
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/ab6761610000f17876a02aae8f69dc600e92b6fb
+",
+          "width": 160
+        }
+      ],
+      "name": "Shay",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨3MNnSV5hDd2UzZzgqD8xlU"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 14800
+      },
+      "genres": [],
+      "href": "
+https://api.spotify.com/v1/artists/4ddqz1AzqYMRKYTslXO839
+",
+      "id": "4ddqz1AzqYMRKYTslXO839",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ab6761610000e5ebc7a72b0ebd347b350683ee5a
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/ab67616100005174c7a72b0ebd347b350683ee5a
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/ab6761610000f178c7a72b0ebd347b350683ee5a
+",
+          "width": 160
+        }
+      ],
+      "name": "Doria",
+      "popularity": 49,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨4ddqz1AzqYMRKYTslXO839"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 29825
+      },
+      "genres": [],
+      "href": "
+https://api.spotify.com/v1/artists/4RB2EEsmLhQTOSVQQpDzNg
+",
+      "id": "4RB2EEsmLhQTOSVQQpDzNg",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/4f548524c6602fe6a3207842556bf822fd6d7c97
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/5395eb566568eb6dc1d51984fee398c58ab9d3b1
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/c77a04dc9aa2a2e53cff6b89d644c4c0127bebc2
+",
+          "width": 160
+        }
+      ],
+      "name": "Sofiane Pamart",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨4RB2EEsmLhQTOSVQQpDzNg"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 77480
+      },
+      "genres": [
+        "drill francais",
+        "french hip hop",
+        "pop urbaine",
+        "rap francais"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/5gqmbbfjcikQBzPB5Hv13I
+",
+      "id": "5gqmbbfjcikQBzPB5Hv13I",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/00d1fb81b4e511511429c63d28f75a49acf9699d
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/04866489461be58367c1eb7d79074aca561196a5
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/8faf39f124e93c73cbf48cf3dd63fe234c59721b
+",
+          "width": 160
+        }
+      ],
+      "name": "Gazo",
+      "popularity": 74,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨5gqmbbfjcikQBzPB5Hv13I"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 26034
+      },
+      "genres": [
+        "rap antillais",
+        "rap ivoire",
+        "zouk riddim"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/1AT8NKdQOU0EVPu6ehN4NA
+",
+      "id": "1AT8NKdQOU0EVPu6ehN4NA",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ddd96a39da5e472c11a71b148706f8dc97b0cc01
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/a03c7b98ce28a66a8717b16572e22425c6d538c0
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/4517a2cbd6ed8892a3a205c4886086127ac59385
+",
+          "width": 160
+        }
+      ],
+      "name": "Meryl",
+      "popularity": 51,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨1AT8NKdQOU0EVPu6ehN4NA"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/3bOlMjhZuCsFt1dKkPCGAK
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 8046
+      },
+      "genres": [
+        "rap calme"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/3bOlMjhZuCsFt1dKkPCGAK
+",
+      "id": "3bOlMjhZuCsFt1dKkPCGAK",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/2c830fbe20c2767cfa38395a8a64abdda00d8e34
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/e9e07c6a61fb9ca2be1b7b6e3dbdcfae69931ceb
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/684dbe758e5bed4aedb7d031860fb56afc9c5207
+",
+          "width": 160
+        }
+      ],
+      "name": "Nadjee",
+      "popularity": 37,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨3bOlMjhZuCsFt1dKkPCGAK"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 219002
+      },
+      "genres": [
+        "hip hop",
+        "rap",
+        "trap",
+        "underground hip hop",
+        "vapor trap"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/5SXuuuRpukkTvsLuUknva1
+",
+      "id": "5SXuuuRpukkTvsLuUknva1",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ab6761610000e5eb570397308fe65a4afd9e826f
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/ab67616100005174570397308fe65a4afd9e826f
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/ab6761610000f178570397308fe65a4afd9e826f
+",
+          "width": 160
+        }
+      ],
+      "name": "Baby Keem",
+      "popularity": 71,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨5SXuuuRpukkTvsLuUknva1"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 4301594
+      },
+      "genres": [
+        "french hip hop",
+        "pop urbaine"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/6Te49r3A6f5BiIgBRxH7FH
+",
+      "id": "6Te49r3A6f5BiIgBRxH7FH",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ab67616d0000b2733f12b172c90b9fe9232f38d0
+",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "
+https://i.scdn.co/image/ab67616d00001e023f12b172c90b9fe9232f38d0
+",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "
+https://i.scdn.co/image/ab67616d000048513f12b172c90b9fe9232f38d0
+",
+          "width": 64
+        }
+      ],
+      "name": "Ninho",
+      "popularity": 83,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨6Te49r3A6f5BiIgBRxH7FH"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 135993
+      },
+      "genres": [
+        "french hip hop",
+        "pop urbaine",
+        "rap francais"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/3bRGJQd7b4lE3ZAEMfOXJp
+",
+      "id": "3bRGJQd7b4lE3ZAEMfOXJp",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ab6761610000e5ebeb2ea8628987b13cdcb4dc5c
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/ab67616100005174eb2ea8628987b13cdcb4dc5c
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/ab6761610000f178eb2ea8628987b13cdcb4dc5c
+",
+          "width": 160
+        }
+      ],
+      "name": "Luidji",
+      "popularity": 61,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨3bRGJQd7b4lE3ZAEMfOXJp"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 427515
+      },
+      "genres": [
+        "escape room",
+        "lgbtq+ hip hop",
+        "trap queen"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/6lay1nwbE6hTx1jivysUAL
+",
+      "id": "6lay1nwbE6hTx1jivysUAL",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/e9490c88e713b84a3f0029b84bfc6f6799a1cb03
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/8ca024a5c326fcd45fc8d318ea1dc4d9b1d924a2
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/2c902b69e63432cf84a991a8cc111c7050cb855a
+",
+          "width": 160
+        }
+      ],
+      "name": "Princess Nokia",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨6lay1nwbE6hTx1jivysUAL"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 7508156
+      },
+      "genres": [
+        "alternative r&b",
+        "hip hop",
+        "lgbtq+ hip hop",
+        "neo soul",
+        "pop"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM
+",
+      "id": "2h93pZq0e7k5yf4dywlkpM",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/7db34c8aace6feb91f38601bb75e6b3301b4657a
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/0cc22250c0b18183e5c62f240a5756ec5226dee1
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/e42028e7fe5a7ba790b5b4e7b096b06bf3319443
+",
+          "width": 160
+        }
+      ],
+      "name": "Frank Ocean",
+      "popularity": 86,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨2h93pZq0e7k5yf4dywlkpM"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/37060l8iXQAWuFo1g3RCQ6
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 2178
+      },
+      "genres": [
+        "rap calme"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/37060l8iXQAWuFo1g3RCQ6
+",
+      "id": "37060l8iXQAWuFo1g3RCQ6",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/f1d673c535fa8a12534d10fd0163b7bc0c437bb8
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/d17b0740971e717ba0216303334ba92d1ea5dffa
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/72e972b6ba66eeb5c9568e4d6e954f167a0000e9
+",
+          "width": 160
+        }
+      ],
+      "name": "rad cartier",
+      "popularity": 37,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨37060l8iXQAWuFo1g3RCQ6"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 1570313
+      },
+      "genres": [
+        "indie poptimism",
+        "pop",
+        "post-teen pop"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/2feDdbD5araYcm6JhFHHw7
+",
+      "id": "2feDdbD5araYcm6JhFHHw7",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/d9a7e54f8df26abde79fd1be03f40d4e8569f590
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/c48df313b2f66bbac060a01020365e39c4dbd08d
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/a1f612ed2f8cf56fb2e4e7ed653142ee8ba14037
+",
+          "width": 160
+        }
+      ],
+      "name": "Labrinth",
+      "popularity": 83,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨2feDdbD5araYcm6JhFHHw7"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/7rTPCNINGzMp3Hc8Xqht5Z
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 455434
+      },
+      "genres": [
+        "french hip hop",
+        "pop urbaine",
+        "rap francais"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/7rTPCNINGzMp3Hc8Xqht5Z
+",
+      "id": "7rTPCNINGzMp3Hc8Xqht5Z",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ab6761610000e5eb5aa43155dbcb9ea51dbadc44
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/ab676161000051745aa43155dbcb9ea51dbadc44
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/ab6761610000f1785aa43155dbcb9ea51dbadc44
+",
+          "width": 160
+        }
+      ],
+      "name": "13 Block",
+      "popularity": 63,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨7rTPCNINGzMp3Hc8Xqht5Z"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 3818729
+      },
+      "genres": [
+        "french hip hop",
+        "pop urbaine"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/3NH8t45zOTqzlZgBvZRjvB
+",
+      "id": "3NH8t45zOTqzlZgBvZRjvB",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/5183e0a003fb8679a63fbdac311df70c79bc9851
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/d0b4a9909b8bcc7afa54cb90d2e9b4c11266b66b
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/2c30cf5b83ae2a60eb0fcc5080fc7fdf9171452e
+",
+          "width": 160
+        }
+      ],
+      "name": "PNL",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨3NH8t45zOTqzlZgBvZRjvB"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/1ONnyhQBTnkvg4QmI97hJg
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 179817
+      },
+      "genres": [
+        "francoton",
+        "french hip hop",
+        "french pop",
+        "pop urbaine",
+        "rap inde"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/1ONnyhQBTnkvg4QmI97hJg
+",
+      "id": "1ONnyhQBTnkvg4QmI97hJg",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/d611f94a00340d719646e6c966c4a77ac7b973dd
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/e336bd87b7d1024bf5ff048881f728b4252bff78
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/aa565b8f3826b1132bfcd5a9bef630e75fc41e9a
+",
+          "width": 160
+        }
+      ],
+      "name": "Sinik",
+      "popularity": 53,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨1ONnyhQBTnkvg4QmI97hJg"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 122353
+      },
+      "genres": [
+        "belgian pop"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/2HPiMwJktBXqakN0hnON2R
+",
+      "id": "2HPiMwJktBXqakN0hnON2R",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ab6761610000e5eb5dddb7b691f717c8aa9ee8b9
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/ab676161000051745dddb7b691f717c8aa9ee8b9
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/ab6761610000f1785dddb7b691f717c8aa9ee8b9
+",
+          "width": 160
+        }
+      ],
+      "name": "Lous and The Yakuza",
+      "popularity": 64,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨2HPiMwJktBXqakN0hnON2R"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/6a2V6IHS7jT9M1IvJ8V3yB
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 22210
+      },
+      "genres": [
+        "drill francais",
+        "french hip hop",
+        "pop urbaine",
+        "rap calme",
+        "rap francais",
+        "rap inde"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/6a2V6IHS7jT9M1IvJ8V3yB
+",
+      "id": "6a2V6IHS7jT9M1IvJ8V3yB",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/8b19347540e43c701fa2c3c096e495d0ef844301
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/6c6038b4dba322a9b99b53f30964c8b92bcd5d29
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/570d631e5b592685c2c78837d1c3ea5aaf09ea60
+",
+          "width": 160
+        }
+      ],
+      "name": "Zuukou mayzie",
+      "popularity": 49,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨6a2V6IHS7jT9M1IvJ8V3yB"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 6879656
+      },
+      "genres": [
+        "florida rap",
+        "hip hop",
+        "melodic rap",
+        "miami hip hop",
+        "rap",
+        "southern hip hop",
+        "trap"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/46SHBwWsqBkxI7EeeBEQG7
+",
+      "id": "46SHBwWsqBkxI7EeeBEQG7",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/7e3b329829c210144d51035a91b92ce3f55d79fb
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/ef90a19321978c4431246870132c3a6540412806
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/5a428596636f28fb55b5bb0006a7ce385d5be69b
+",
+          "width": 160
+        }
+      ],
+      "name": "Kodak Black",
+      "popularity": 84,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨46SHBwWsqBkxI7EeeBEQG7"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 2825140
+      },
+      "genres": [
+        "belgian hip hop",
+        "french hip hop",
+        "pop urbaine",
+        "rap belge",
+        "rap conscient"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/2UwqpfQtNuhBwviIC0f2ie
+",
+      "id": "2UwqpfQtNuhBwviIC0f2ie",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ab6761610000e5eb2c865634e2725a105d34e08e
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/ab676161000051742c865634e2725a105d34e08e
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/ab6761610000f1782c865634e2725a105d34e08e
+",
+          "width": 160
+        }
+      ],
+      "name": "Damso",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨2UwqpfQtNuhBwviIC0f2ie"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 223953
+      },
+      "genres": [
+        "french hip hop",
+        "pop urbaine",
+        "rap francais"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/7yeFMUrYTY5cAZx0GKXnti
+",
+      "id": "7yeFMUrYTY5cAZx0GKXnti",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/fd2aa2f943cf008df23aad59d63d75d6ae248f63
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/d2adc90acdf4f0d1aa76a35087023987e19e3a9f
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/70b767d7682ce7f2149e73c77656eb0a4f19bd32
+",
+          "width": 160
+        }
+      ],
+      "name": "Alpha Wann",
+      "popularity": 68,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨7yeFMUrYTY5cAZx0GKXnti"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 173867
+      },
+      "genres": [
+        "nigerian pop"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/46pWGuE3dSwY3bMMXGBvVS
+",
+      "id": "46pWGuE3dSwY3bMMXGBvVS",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ab67616d0000b27381c04ab39b75f83ee9849a08
+",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "
+https://i.scdn.co/image/ab67616d00001e0281c04ab39b75f83ee9849a08
+",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "
+https://i.scdn.co/image/ab67616d0000485181c04ab39b75f83ee9849a08
+",
+          "width": 64
+        }
+      ],
+      "name": "Rema",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨46pWGuE3dSwY3bMMXGBvVS"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 358237
+      },
+      "genres": [
+        "adult standards",
+        "brill building pop",
+        "bubblegum pop",
+        "folk rock",
+        "mellow gold",
+        "motown",
+        "rock-and-roll"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/4b0WsB47XCa9F83BmwQ7WX
+",
+      "id": "4b0WsB47XCa9F83BmwQ7WX",
+      "images": [
+        {
+          "height": 1292,
+          "url": "
+https://i.scdn.co/image/21584a935b760f20b4b08f7f9ddd012c12437798
+",
+          "width": 1000
+        },
+        {
+          "height": 827,
+          "url": "
+https://i.scdn.co/image/e97b7cd22945863ebc926c5c8e4e92bd2b8698d9
+",
+          "width": 640
+        },
+        {
+          "height": 258,
+          "url": "
+https://i.scdn.co/image/04ac9d38712494d9347ecc5115b22115c9f34717
+",
+          "width": 200
+        },
+        {
+          "height": 83,
+          "url": "
+https://i.scdn.co/image/b101249b1356e58639c151a4772258caea50197d
+",
+          "width": 64
+        }
+      ],
+      "name": "The Righteous Brothers",
+      "popularity": 65,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨4b0WsB47XCa9F83BmwQ7WX"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 845566
+      },
+      "genres": [
+        "francoton",
+        "french hip hop",
+        "pop urbaine",
+        "rap francais"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/6ytOHdKh4xt4YvF7tz8Zcv
+",
+      "id": "6ytOHdKh4xt4YvF7tz8Zcv",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ab6761610000e5eb739bd9bb777fa08f6f088fe7
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/ab67616100005174739bd9bb777fa08f6f088fe7
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/ab6761610000f178739bd9bb777fa08f6f088fe7
+",
+          "width": 160
+        }
+      ],
+      "name": "Kalash Criminel",
+      "popularity": 66,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨6ytOHdKh4xt4YvF7tz8Zcv"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/4bDcCV0zjPsVs2GxtduYry
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 36461
+      },
+      "genres": [
+        "french hip hop",
+        "pop urbaine",
+        "rap calme",
+        "rap francais"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/4bDcCV0zjPsVs2GxtduYry
+",
+      "id": "4bDcCV0zjPsVs2GxtduYry",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ab6761610000e5eb9df319cf06f11c89a198f078
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/ab676161000051749df319cf06f11c89a198f078
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/ab6761610000f1789df319cf06f11c89a198f078
+",
+          "width": 160
+        }
+      ],
+      "name": "Captaine Roshi",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨4bDcCV0zjPsVs2GxtduYry"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 6161
+      },
+      "genres": [
+        "drill francais"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/67MIpliQaIhUN1WLSkYEqC
+",
+      "id": "67MIpliQaIhUN1WLSkYEqC",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ab6761610000e5eb71a3c7f554f38217e5b42aee
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/ab6761610000517471a3c7f554f38217e5b42aee
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/ab6761610000f17871a3c7f554f38217e5b42aee
+",
+          "width": 160
+        }
+      ],
+      "name": "Le Juiice",
+      "popularity": 42,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨67MIpliQaIhUN1WLSkYEqC"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/5dacK0fiMwLoV93yBdUrZK
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 67913
+      },
+      "genres": [
+        "french hip hop",
+        "pop urbaine",
+        "rap francais"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/5dacK0fiMwLoV93yBdUrZK
+",
+      "id": "5dacK0fiMwLoV93yBdUrZK",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ab6761610000e5eb9377c88ea579886f7fe0b01f
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/ab676161000051749377c88ea579886f7fe0b01f
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/ab6761610000f1789377c88ea579886f7fe0b01f
+",
+          "width": 160
+        }
+      ],
+      "name": "Sifax",
+      "popularity": 57,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨5dacK0fiMwLoV93yBdUrZK"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/3viiIGEp9jn0sKz4K0D6HT
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 2754
+      },
+      "genres": [],
+      "href": "
+https://api.spotify.com/v1/artists/3viiIGEp9jn0sKz4K0D6HT
+",
+      "id": "3viiIGEp9jn0sKz4K0D6HT",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/f3e2a46c11ed7260f2df2b6fe2897b85a5358293
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/485e7c8b901ef96bc7b7819ac88a7e4dedf6388e
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/ac1c65fba2f1b28e2b0372ff66ce33dea0622326
+",
+          "width": 160
+        }
+      ],
+      "name": "DAVINHOR",
+      "popularity": 28,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨3viiIGEp9jn0sKz4K0D6HT"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 575927
+      },
+      "genres": [
+        "francoton",
+        "french hip hop",
+        "pop urbaine",
+        "rap calme",
+        "rap francais"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/2kIs76sEGiulKeqetZq6ua
+",
+      "id": "2kIs76sEGiulKeqetZq6ua",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ab6761610000e5ebdd27f112416f7f1d9e3e1621
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/ab67616100005174dd27f112416f7f1d9e3e1621
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/ab6761610000f178dd27f112416f7f1d9e3e1621
+",
+          "width": 160
+        }
+      ],
+      "name": "Jok'air",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨2kIs76sEGiulKeqetZq6ua"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 30756
+      },
+      "genres": [
+        "french hip hop",
+        "rap calme",
+        "rap francais"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/1AKP8Tnz8KfOdRM4mqvNtF
+",
+      "id": "1AKP8Tnz8KfOdRM4mqvNtF",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/16ec230548c861294d32519cd1186b83af49dcb4
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/40ac50b2bcc2d7b095c256440071d6e1b523e837
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/20a969012d2fa493f78fdbc9e8d5f0aede414c0a
+",
+          "width": 160
+        }
+      ],
+      "name": "Lala &ce",
+      "popularity": 52,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨1AKP8Tnz8KfOdRM4mqvNtF"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 306181
+      },
+      "genres": [
+        "hip hop",
+        "indie soul",
+        "irish hip hop",
+        "rap"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/3lLHpTOJ11tWiUNGYN14gt
+",
+      "id": "3lLHpTOJ11tWiUNGYN14gt",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/0f2d10e27770e1481b4932268da13ab66e91e80a
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/7d40abe644faeba97f90ffdf663dfc0a91cd2a1f
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/20921ced4548e27520e901077329c7c33afb36cb
+",
+          "width": 160
+        }
+      ],
+      "name": "Rejjie Snow",
+      "popularity": 68,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨3lLHpTOJ11tWiUNGYN14gt"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 292862
+      },
+      "genres": [
+        "french hip hop",
+        "pop urbaine",
+        "rap francais"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/20pbz4TbpkBUr5JwYfGgPS
+",
+      "id": "20pbz4TbpkBUr5JwYfGgPS",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ab6761610000e5ebc7b729ef2b9e7001a27453f6
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/ab67616100005174c7b729ef2b9e7001a27453f6
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/ab6761610000f178c7b729ef2b9e7001a27453f6
+",
+          "width": 160
+        }
+      ],
+      "name": "Kekra",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨20pbz4TbpkBUr5JwYfGgPS"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 488597
+      },
+      "genres": [
+        "r&b en espanol",
+        "rap latina"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/3VHAySZQPlfGlNLslzXYpN
+",
+      "id": "3VHAySZQPlfGlNLslzXYpN",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/31fe825007bc1bb926c81003896aec671dc90cb6
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/0b9dbc2c4eda6380b0ee6700cade06935f79087b
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/acd7d90427f1973a99bda74368b6dab709097a06
+",
+          "width": 160
+        }
+      ],
+      "name": "Nathy Peluso",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨3VHAySZQPlfGlNLslzXYpN"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/3JudvZnY94AkCzfAVXzawN
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 30955
+      },
+      "genres": [
+        "french hip hop",
+        "rap calme",
+        "rap francais",
+        "swiss hip hop"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/3JudvZnY94AkCzfAVXzawN
+",
+      "id": "3JudvZnY94AkCzfAVXzawN",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ab6761610000e5ebc73c6d4aa758c998e7f5f0cd
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/ab67616100005174c73c6d4aa758c998e7f5f0cd
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/ab6761610000f178c73c6d4aa758c998e7f5f0cd
+",
+          "width": 160
+        }
+      ],
+      "name": "Slimka",
+      "popularity": 46,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨3JudvZnY94AkCzfAVXzawN"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/7y1XjJQEGtFmh1MNyWU6cg
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 27019
+      },
+      "genres": [
+        "arab groove"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/7y1XjJQEGtFmh1MNyWU6cg
+",
+      "id": "7y1XjJQEGtFmh1MNyWU6cg",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/4e1d742d7507a1a8dcb516487ec4b09e404c16b9
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/17657d4d6658737ade6a9aa119b6ba194bac5f2f
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/8b64021a0044bd54823bcb6d874c442cdbc1e7b1
+",
+          "width": 160
+        }
+      ],
+      "name": "Saâda Bonaire",
+      "popularity": 43,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨7y1XjJQEGtFmh1MNyWU6cg"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 4908853
+      },
+      "genres": [
+        "brooklyn drill"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/0eDvMgVFoNV3TpwtrVCoTj
+",
+      "id": "0eDvMgVFoNV3TpwtrVCoTj",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/dec62931945371fd22f29c436ca61dea03415556
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/452b8e2959c68878477ba110bc517449023a921d
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/4d68f134b9ccfc7b9c22b4ed0abc98dccecc5fb2
+",
+          "width": 160
+        }
+      ],
+      "name": "Pop Smoke",
+      "popularity": 93,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨0eDvMgVFoNV3TpwtrVCoTj"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 284431
+      },
+      "genres": [
+        "french hip hop",
+        "pop urbaine",
+        "rap francais"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/66Ok6bgC570sHkw08N20pZ
+",
+      "id": "66Ok6bgC570sHkw08N20pZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ab6761610000e5eba53a7890c4fa4b24a2ee9866
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/ab67616100005174a53a7890c4fa4b24a2ee9866
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/ab6761610000f178a53a7890c4fa4b24a2ee9866
+",
+          "width": 160
+        }
+      ],
+      "name": "OBOY",
+      "popularity": 70,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨66Ok6bgC570sHkw08N20pZ"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/17o6H1EQGD90TQxJ4pErIU
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 9477
+      },
+      "genres": [
+        "swiss hip hop"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/17o6H1EQGD90TQxJ4pErIU
+",
+      "id": "17o6H1EQGD90TQxJ4pErIU",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ab67616d0000b27305021e41ea98cec51e312698
+",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "
+https://i.scdn.co/image/ab67616d00001e0205021e41ea98cec51e312698
+",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "
+https://i.scdn.co/image/ab67616d0000485105021e41ea98cec51e312698
+",
+          "width": 64
+        }
+      ],
+      "name": "Varnish La Piscine",
+      "popularity": 42,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨17o6H1EQGD90TQxJ4pErIU"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/6379rD5bSEwInazkKhZ9DM
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 407877
+      },
+      "genres": [
+        "francoton",
+        "french hip hop",
+        "french pop",
+        "pop urbaine"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/6379rD5bSEwInazkKhZ9DM
+",
+      "id": "6379rD5bSEwInazkKhZ9DM",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/de507eb9d0c76126c8e906b8179055a07eb302f8
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/69ecebb85db14585c6ebcccded9624b91fdc3db9
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/7207a760f147e75bb5724002443bf6dad9fc4c7e
+",
+          "width": 160
+        }
+      ],
+      "name": "Diam's",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨6379rD5bSEwInazkKhZ9DM"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/70GOdbV3l3bRrYkRhsgDvY
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 4670
+      },
+      "genres": [
+        "rap calme"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/70GOdbV3l3bRrYkRhsgDvY
+",
+      "id": "70GOdbV3l3bRrYkRhsgDvY",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ab6761610000e5eb1865b5d13adf266a374f3bca
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/ab676161000051741865b5d13adf266a374f3bca
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/ab6761610000f1781865b5d13adf266a374f3bca
+",
+          "width": 160
+        }
+      ],
+      "name": "SONBEST",
+      "popularity": 36,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨70GOdbV3l3bRrYkRhsgDvY"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/1h0vYLWMAElSWYCjm6RBpe
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 24219
+      },
+      "genres": [
+        "french hip hop",
+        "pop urbaine",
+        "rap calme",
+        "rap francais"
+      ],
+      "href": "
+https://api.spotify.com/v1/artists/1h0vYLWMAElSWYCjm6RBpe
+",
+      "id": "1h0vYLWMAElSWYCjm6RBpe",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/8276173aaac99f63c17811fbf4174736e8c1c265
+",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "
+https://i.scdn.co/image/ef1c5cfae9d88bc47be7cc9f58be24b90ca3b450
+",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "
+https://i.scdn.co/image/0627186573802d9f14737374430f0b34c6bab1bd
+",
+          "width": 160
+        }
+      ],
+      "name": "Ikaz Boi",
+      "popularity": 48,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨1h0vYLWMAElSWYCjm6RBpe"
+    },
+    {
+      "external_urls": {
+        "spotify": "
+https://open.spotify.com/artist/7HUAUCbkV33os6biYbjrcI
+"
+      },
+      "followers": {
+        "href": null,
+        "total": 809
+      },
+      "genres": [],
+      "href": "
+https://api.spotify.com/v1/artists/7HUAUCbkV33os6biYbjrcI
+",
+      "id": "7HUAUCbkV33os6biYbjrcI",
+      "images": [
+        {
+          "height": 640,
+          "url": "
+https://i.scdn.co/image/ab67616d0000b2739e3232d3cac4572a98e2ac53
+",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "
+https://i.scdn.co/image/ab67616d00001e029e3232d3cac4572a98e2ac53
+",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "
+https://i.scdn.co/image/ab67616d000048519e3232d3cac4572a98e2ac53
+",
+          "width": 64
+        }
+      ],
+      "name": "Nyoko Bokbae",
+      "popularity": 27,
+      "type": "artist",
+      "uri": "spotify🧑‍🎨7HUAUCbkV33os6biYbjrcI"
+    }
+  ],
+  "total": 50,
+  "limit": 50,
+  "offset": 5,
+  "href": "
+https://api.spotify.com/v1/me/top/artists?limit=50&offset=5
+",
+  "previous": null,
+  "next": null
+}
