@@ -1,7 +1,8 @@
 # POM
 
 ## Abstract
-    
+
+[Video](https://youtu.be/EuG9u0NComU)
     
 Data physicalization is a form of data abstraction that existed before writing and paper were invented. Helping humans externalize information, communicate through creation, and support cognitive thought. Nowadays it has become an emerging research area aiming to open new perspectives for data representations.
 Physicalization for self-reflection purposes have been found to facilitate deeper reflection and understanding of personal data. Since our access to personnel data is increasingly rising, now is the best time to explore our own personal data.
